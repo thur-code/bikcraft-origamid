@@ -31,7 +31,7 @@ O objetivo deste projeto foi criar um site fictício para uma empresa de **bicic
 
 ## 📂 Status do projeto
 
-✅ Concluído – Projeto guiado do curso Origamid  
+✅ Em andamento  
 
 ---
 
