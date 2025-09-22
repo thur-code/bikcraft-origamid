@@ -78,7 +78,8 @@
 }
 
 .titulo-bg {
-  padding: 60px 0;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: var(--cor-11);
 }
 
@@ -87,8 +88,9 @@
 }
 
 @media (max-width: 800px) {
-  .titulo {
-    padding: 40px;
+  .titulo-bg {
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
   .titulo p {
     font-size: 1rem;
