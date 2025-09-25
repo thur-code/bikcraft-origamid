@@ -7,7 +7,7 @@ O objetivo deste projeto foi criar um site fictício para uma empresa de **bicic
 
 ## 🚀 Preview
 
-🔗 [Acesse o projeto online aqui](https://www.origamid.com/projetos/bikcraft/)  
+🔗 [Acesse o projeto online aqui](https://thur-code.github.io/bikcraft-origamid/)  
 
 ![Preview do site](./screenshot.png)  
 
