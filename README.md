@@ -7,35 +7,35 @@ O objetivo deste projeto foi criar um site fictício para uma empresa de **bicic
 
 ## 🚀 Preview
 
-🔗 [Acesse o projeto online aqui](https://thur-code.github.io/bikcraft-origamid/)  
+🔗 [Acesse o projeto online aqui](https://thur-code.github.io/bikcraft-origamid/)
 
-![Preview do site](./screenshot.png)  
+![Preview do site](./screenshot.png)
 
 ---
 
 ## 🛠 Tecnologias utilizadas
 
-- HTML5  
-- CSS3 (Flexbox, Grid Layout e responsividade)  
+- HTML5
+- CSS3 (Flexbox, Grid Layout e responsividade)
 
 ---
 
 ## 🎯 Objetivos de aprendizado
 
-- Estruturar um site completo com múltiplas páginas  
-- Criar layouts responsivos utilizando Grid e Flexbox  
-- Aprender boas práticas de design e organização de código  
-- Simular um projeto real de portfólio profissional  
+- Estruturar um site completo com múltiplas páginas
+- Criar layouts responsivos utilizando Grid e Flexbox
+- Aprender boas práticas de design e organização de código
+- Simular um projeto real de portfólio profissional
 
 ---
 
 ## 📂 Status do projeto
 
-✅ Em andamento  
+✅ Concluído
 
 ---
 
 ## 📝 Observações
 
 Este projeto foi feito **de forma guiada**, seguindo as aulas do curso da Origamid.  
-O design e o código foram mantidos conforme o exemplo do professor, com o objetivo de **consolidar os fundamentos de HTML e CSS** em um projeto completo.  
+O design e o código foram mantidos conforme o exemplo do professor, com o objetivo de **consolidar os fundamentos de HTML e CSS** em um projeto completo.
