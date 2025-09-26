@@ -10,11 +10,17 @@ O objetivo deste projeto foi criar um site fictício para uma empresa de **bicic
 🔗 [Acesse o projeto online aqui](https://thur-code.github.io/bikcraft-origamid/)
 
 ![Preview do site](./print-site/img-1.png)
+
 ![Preview do site](./print-site/img-2.png)
+
 ![Preview do site](./print-site/img-3.png)
+
 ![Preview do site](./print-site/img-4.png)
+
 ![Preview do site](./print-site/img-5.png)
+
 ![Preview do site](./print-site/img-6.png)
+
 ![Preview do site](./print-site/img-7.png)
 
 ---
